@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>file.jpg</file>
+        <file>smile.jpeg</file>
+        <file>timg.jpg</file>
+    </qresource>
+</RCC>

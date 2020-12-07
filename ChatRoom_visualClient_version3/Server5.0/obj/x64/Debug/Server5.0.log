@@ -1,0 +1,25 @@
+﻿  正在验证源
+  正在将源远程复制到“204.44.88.168”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  HandleMsg.cpp
+F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\HandleMsg.cpp(57,56): warning : conversion to ‘int’ from ‘ssize_t {aka long int}’ may alter its value [-Wconversion]
+F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\HandleMsg.cpp(57,56): warning :    if ((numbytes = recv(new_user.fd, buf, MAXDATASIZE, 0)) == -1)//套接字文件描述符，接收到这字符串里，最大长度,最后一个参数同服务端
+F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\HandleMsg.cpp(57,56): warning :                                                         ^
+  Loading_record.cpp
+  Operate_Mysql.cpp
+F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\Operate_Mysql.cpp(73,8): warning : unused variable ‘num’ [-Wunused-variable]
+F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\Operate_Mysql.cpp(73,8): warning :     int num = mysql_num_fields(result);
+F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\Operate_Mysql.cpp(73,8): warning :         ^
+F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\Operate_Mysql.cpp(114,8): warning : unused variable ‘num’ [-Wunused-variable]
+F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\Operate_Mysql.cpp(114,8): warning :     int num = mysql_num_fields(result);
+F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\Operate_Mysql.cpp(114,8): warning :         ^
+  Server5.0.cpp
+  UserInit.cpp
+F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\UserInit.cpp(8,50): warning : conversion to ‘int’ from ‘ssize_t {aka long int}’ may alter its value [-Wconversion]
+F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\UserInit.cpp(8,50): warning :   if ((numbytes = recv(new_fd, buf, MAXDATASIZE, 0)) == -1)//套接字文件描述符，接收到这字符串里，最大长度,最后一个参数同服务端
+F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\UserInit.cpp(8,50): warning :                                                   ^
+  正在链接对象
+  Server5.0.vcxproj -> F:\堆轮子啦\网络聊天室\Linux版本\Wechat5.0\Server5.0\bin\x64\Debug\Server5.0.out
