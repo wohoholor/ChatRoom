@@ -15,7 +15,7 @@
 
 #define PORT 9999 // 你服务器开放的端口号，记得服务器的防火墙和安全策略都要开放该端口哦
 #define MAXDATASIZE 1000 //每次可以接收的最大字节
-#define IP "204.44.88.168"//你服务器的公网IP
+#define IP "111"//你服务器的公网IP
 
 using namespace std;
 
