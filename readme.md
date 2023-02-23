@@ -1,1 +1,1 @@
-具体可见[我的博客](https://www.notown.club/?p=549)
+具体可见[我的博客](https://www.notown.top/?p=549)
